@@ -19,9 +19,10 @@ Similarly, to include halimi et al. unsupervised loss, please replace E5 with po
 both these lines are commented out in loss.py.
 
 # Weakly Aligned Data
-Coming soon
+Faust remesh aligned: https://drive.google.com/file/d/1C-9GFsTl5xwa0RUmC_m1nnj87QUguh6j/view?usp=sharing
+Scape remesh aligned: https://drive.google.com/file/d/157SoRhiVQzsWbSFlaV5N-vzkxKCvTIlf/view?usp=sharing
 
 # Partial Shape Matching Code
 
-Coming soon
+
 
