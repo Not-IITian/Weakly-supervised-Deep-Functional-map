@@ -10,13 +10,14 @@
 Our source code then contains 3 files:
 1) train_test.py
 2) model.py
-3) loss.py: this contains the implementation of halimi et al. loss (pointwise_corr_layer) and also supervised loss of Donati et al.
+3) loss.py: contains also the implementation of halimi et al. loss and also supervised loss of GeomFmap.
 
 By default, running train_test.py with suitable data runs our method and replicates all results in main paper. 
 
 To include supervised loss of Donati et al., please replace E5 (currently set to 0) with sup_penalty_surreal. 
-Similarly, to include halimi et al. unsupervised loss, please replace E5 with pointwise_corr_layer.. 
-both these lines are commented out in loss.py.
+
+Similarly, to include halimi et al. unsupervised loss, please replace E5 with pointwise_corr_layer.
+
 
 # Weakly Aligned Data
 Faust remesh aligned: https://drive.google.com/file/d/1C-9GFsTl5xwa0RUmC_m1nnj87QUguh6j/view?usp=sharing
@@ -24,6 +25,8 @@ Faust remesh aligned: https://drive.google.com/file/d/1C-9GFsTl5xwa0RUmC_m1nnj87
 Scape remesh aligned: https://drive.google.com/file/d/157SoRhiVQzsWbSFlaV5N-vzkxKCvTIlf/view?usp=sharing
 
 # Partial Shape Matching Code
+
+Coming soon
 
 
 
