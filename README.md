@@ -3,6 +3,7 @@
 
 # Requirements:
 --Tensorflow 1.x version
+
 --Please download the tf_ops and utils folder from pointnet++ github repository and compile tf_ops according to the instructions provided there.
 
 # Running the code
