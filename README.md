@@ -1,5 +1,5 @@
 # Neurips 2020: Weakly-supervised-Deep-Functional-map for shape Matching
- preprint here: https://arxiv.org/abs/2009.13339
+ Paper here: https://arxiv.org/abs/2009.13339
 
 # Requirements:
 --Tensorflow 1.x version
